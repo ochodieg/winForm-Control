@@ -42,4 +42,8 @@
         'End If
 
     End Sub
+
+    Private Sub CheckBox6_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox6.CheckedChanged
+
+    End Sub
 End Class
